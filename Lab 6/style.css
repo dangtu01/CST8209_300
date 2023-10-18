@@ -1,0 +1,34 @@
+.emoji-gallery {
+  display: flex;
+  align-content: space-evenly;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  }
+
+  .emojis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 30px;
+    margin: 10px;
+    border: 2px solid black;
+    width: 10%;
+
+  }
+
+
+  h2 {
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+  span {
+    font-size: 45px;
+  }
+
+  p {
+    background-color: #eeeeee;
+  }
