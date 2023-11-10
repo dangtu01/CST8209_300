@@ -1,0 +1,11 @@
+.beanContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.beans {
+    padding: 10px;
+}
